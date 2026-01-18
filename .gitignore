@@ -1,0 +1,17 @@
+# Assembly build artifacts
+*.o
+*.obj
+*.exe
+*.out
+
+# Debug / temp
+*.log
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
