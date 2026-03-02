@@ -11,8 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="..\HW2\HW2_Addtest.asm" />
-    <MASM Include="AddTwo.asm" />
+    <MASM Include="CH05_9-03.asm" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4164AA65-1EF9-4E69-899B-D1BED776070B}</ProjectGuid>
