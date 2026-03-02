@@ -1,17 +1,24 @@
-# Assembly build artifacts
-*.o
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+Debug/
+Release/
+x64/
+Win32/
+*/Debug/
+*/Release/
+*/x64/
+*/Win32/
+
+# MASM / linker artifacts
 *.obj
 *.exe
-*.out
-
-# Debug / temp
+*.pdb
+*.ilk
 *.log
-*.tmp
-
-# Editors
-.vscode/
-.idea/
-
-# OS junk
-.DS_Store
-Thumbs.db
+*.tlog
+*.idb
+*.pch
